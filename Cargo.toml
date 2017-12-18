@@ -1,0 +1,10 @@
+[package]
+name    = "afluid"
+version = "0.0.1"
+authors = ["awkure <awkure@protonmail.ch>"]
+
+[dependencies]
+num = "^0.1"
+
+[lib]
+path = "src/lib.rs"
